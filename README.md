@@ -21,7 +21,7 @@
     
     <style>
 
-    html { background-color: #105694; }
+        background-color: #105694; 
 
     </style>
 
