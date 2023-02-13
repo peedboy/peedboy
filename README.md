@@ -18,12 +18,6 @@
     </pre>
     
     <p><a href="peedboy.html">peedboy</a></p>
-    
-    <style>
-
-        body {background-color: #105694;} 
-
-    </style>
-
+   
 </body>
 </html>
