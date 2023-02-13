@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Document</title>
     <link rel="stylesheet" type="text/css" href="./style.css">
-    <script src="./script.js"></script>
+    <script src="script.js"></script>
 </head>
 <body>
     <img src="peedboy(2).jpg" alt="peedboy" width="200">
