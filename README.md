@@ -17,7 +17,7 @@
     <div id="result"></div>
     </pre>
     
-    <p><a href="index.html">peedboy</a></p>
+    <p><a href="peedboy.html">peedboy</a></p>
 
 </body>
 </html>
